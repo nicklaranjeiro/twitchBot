@@ -10,7 +10,7 @@ var options = {
     },
     identity: {
         username: "CanadianBotEh",
-        password:  "oauth:41fndmc1q4dcygmhlmxzhreey77bge"
+        password:  "oauth: omitted"
     },
     channels: ["canadianplayer"]
 };
